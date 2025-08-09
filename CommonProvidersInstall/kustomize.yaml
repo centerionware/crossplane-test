@@ -1,0 +1,11 @@
+namePrefix: kustomize-
+
+resources:
+- aws.yaml
+- aws_config.yaml
+- azure.yaml
+- azure_config.yaml
+- gcp.yaml
+- gcp_config.yaml
+apiVersion: kustomize.config.k8s.io/v1beta1
+kind: Kustomization

@@ -1,0 +1,1 @@
+`kubectl create secret generic $SECRET_NAME --from-file=key-file=aws_key_example.txt`

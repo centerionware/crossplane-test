@@ -1,0 +1,1 @@
+[https://marketplace.upbound.io/providers/upbound/provider-family-azure/v1.13.1](https://marketplace.upbound.io/providers/upbound/provider-family-azure/v1.13.1)
